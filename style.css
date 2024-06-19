@@ -1,0 +1,51 @@
+body{
+    background-color: #5f9393;
+    /* background-image: url(https://media.istockphoto.com/id/1067089582/photo/old-scratched-film-strip-grunge-texture-background.jpg?s=612x612&w=0&k=20&c=bwl2ShVc5KWRmi-7GblIeg3ziOCXqCDZP0s3BWYJkQg=); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#container{
+    max-width: 420px;
+    margin: 0 auto;
+    margin-top: 15%;
+    /* background-color: #ed1313; */
+    border-radius: 15px;
+   
+}
+
+#clock{
+    position: relative;
+  
+    color: #171717;
+    height: 150px;
+    width: 400px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px #01343f;
+    /* border: 5px solid #0a0a0a; */
+    letter-spacing: 2px; 
+     /* background: linear-gradient( 135deg, #14ffe9,#ffeb3b,#ff00e0); */
+    
+    background-color: #046565;
+   
+    
+    
+}
+#time{
+    position: relative;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    top: 40px;
+    
+
+}
+#clo{
+    
+    color: #0d252f;
+    text-align: center;
+    font-size: 40px;
+    font-weight:900;
+    font-family: Arial, Helvetica, sans-serif;
+}
